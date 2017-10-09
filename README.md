@@ -7,4 +7,4 @@ Bookmarklet is published on [shuvvle.com](http://shuvvle.com)
 
 ---
 
-Created in one night in May 2011 by [@AnneVeling](https://twitter.com/anneveling), [@KamilAfsar](https:twitter.com/kamilafsar) and [@ChristiaanHees](https://twitter.com/christiaanhees) in [Lori's Diner](http://lorisdiner.com/) in San Francisco.
+Created in one night in May 2011 by Anne Veling, [@kamilafsar](https://github.com/kamilafsar) and [@chees](https://github.com/chees) in [Lori's Diner](http://lorisdiner.com/) in San Francisco.
